@@ -1,5 +1,15 @@
+// {
+//   "compilerOptions": {
+//     "jsx": "react",
+//     "paths": {
+//       "@/*": ["./*"]
+//     }
+//   }
+// }
+
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
     }
